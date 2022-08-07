@@ -19,9 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dimmasyusuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dimmasyusuf" height="30" width="40" /></a>
 <a href="https://dev.to/dimmasyusuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dimmasyusuf" height="30" width="40" /></a>
-<a href="https://twitter.com/dimmasyusuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dimmasyusuf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dimmasyusuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimmasyusuf" height="30" width="40" /></a>
 <a href="https://instagram.com/dimmasyusuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dimmasyusuf" height="30" width="40" /></a>
 <a href='https://ko-fi.com/H2H2E9EBI' target='_blank'><img align="center" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
