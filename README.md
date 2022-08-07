@@ -24,6 +24,7 @@
 <a href="https://twitter.com/dimmasyusuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dimmasyusuf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dimmasyusuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimmasyusuf" height="30" width="40" /></a>
 <a href="https://instagram.com/dimmasyusuf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dimmasyusuf" height="30" width="40" /></a>
+<a href='https://ko-fi.com/H2H2E9EBI' target='_blank'><img align="center" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -66,6 +67,13 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimmasyusuf&show_icons=true&locale=en&layout=compact" alt="dimmasyusuf"/>
-</p>
+<h3 align="left">GitHub Stats:</h3>
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/dimmasyusuf#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dimmasyusuf&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dimmasyusuf#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=dimmasyusuf&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/dimmasyusuf#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmasyusuf&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dimmasyusuf#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmasyusuf&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/dimmasyusuf#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dimmasyusuf&theme=default"/></a><a href="https://github.com/dimmasyusuf#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dimmasyusuf&theme=tokyonight"/></a></td>
+    </tr>
+</table>
