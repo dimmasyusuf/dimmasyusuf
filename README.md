@@ -53,12 +53,39 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<table align="center">
-    <tr>
-        <td align="center"><a href="https://github.com/dimmasyusuf"><img src="https://github-readme-stats.vercel.app/api?username=dimmasyusuf&show_icons=true&theme=default&include_all_commits=true" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/dimmasyusuf"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmasyusuf&theme=default&langs_count=8" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/dimmasyusuf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dimmasyusuf&theme=default"/></a></td>
-    </tr>
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/dimmasyusuf#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=dimmasyusuf&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+  </a>
+
+  <a href="https://github.com/dimmasyusuf#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=dimmasyusuf&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
+  </a>
+</td>
+
+<td rowspan="2" align="center">
+  <a href="https://github.com/dimmasyusuf#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmasyusuf&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+  </a>
+
+  <a href="https://github.com/dimmasyusuf#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmasyusuf&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="https://github.com/dimmasyusuf#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimmasyusuf&theme=default"/>
+  </a>
+
+  <a href="https://github.com/dimmasyusuf#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimmasyusuf&theme=tokyonight"/>
+  </a>
+</td>
+</tr>
 </table>
