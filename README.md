@@ -9,8 +9,6 @@
 
 <img align="right" src="https://i.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.webp" width="400" alt="github-cover">
 
-- 🔭 I’m currently working on **Potato Day**
-
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Anything :D**
@@ -54,35 +52,4 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dimmasyusuf#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=dimmasyusuf&theme=default&show_icons=true&hide_border=true&count_private=true" alt="My GitHub Stats" />
-      </a>
-      <a href="https://github.com/dimmasyusuf#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=dimmasyusuf&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="My GitHub Stats"/>
-      </a>
-    </td>
-    <td rowspan="2" align="center">
-      <a href="https://github.com/dimmasyusuf#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmasyusuf&theme=default&show_icons=true&hide_border=true&layout=pie" alt="Most Used Languages" />
-      </a>
-      <a href="https://github.com/dimmasyusuf#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmasyusuf&theme=github_dark&show_icons=true&hide_border=true&layout=pie" alt="Most Used Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dimmasyusuf#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=dimmasyusuf&theme=default&hide_border=true&card_width=470" alt="My Streak Stats" />
-      </a>
-      <a href="https://github.com/dimmasyusuf#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=dimmasyusuf&theme=github-dark-blue&hide_border=true&card_width=470" alt="My Streak Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmasyusuf&theme=default&layout=compact" alt="Most Used Languages" />
