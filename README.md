@@ -8,10 +8,10 @@
 
 <img align="right" src="https://i.giphy.com/vqxviVfqGAa14SgeiC.webp" width="384" alt="github-cover">
 
-- 👋 Hi there, I'm Dimas Yusuf Qurohman!
-- 🌱 I’m currently learning Web Development and always eager to expand my knowledge.
-- 💬 Ask me about anything, whether it's coding, tech, or just to have a friendly chat! :smile:
-- 📫 You can reach me at dimasyusufqurohman@gmail.com.
+- 👋 Hi, I'm Dimas Yusuf Qurohman — a Fullstack AI Engineer.
+- 🤖 I build intelligent, end-to-end applications powered by AI.
+- 💬 Ask me about fullstack development, AI integrations, or just tech in general!
+- 📫 Reach me at dimasyusufqurohman@gmail.com.
 - ⚡ Fun fact: I enjoy munching on Potato Snack while coding!
 
 ##
